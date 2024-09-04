@@ -1,4 +1,2 @@
-# This is a test repo for ITM352.
-How do you like it?
-_Are you impressed?_
-*I know I am!*
+# This is the repo for ITM352 F24 semester.
+_This is for Section 002_
