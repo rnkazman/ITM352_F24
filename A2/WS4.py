@@ -8,7 +8,7 @@ import sys
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-# Set the display to show all columns
+# Set the display to show all columns. Change to show all rows.
 #pd.set_option("display.max_columns", None)
 pd.set_option("display.max_rows", None)
 
