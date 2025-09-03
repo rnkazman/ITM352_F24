@@ -8,3 +8,4 @@ value_entered = input("Please enter an integer between 1 and 100: ")
 value_entered_int = int(value_entered)
 value_squared = value_entered_int**2
 print ("The value squared= ", value_squared)
+
